@@ -1,3 +1,5 @@
+Lawson wuz here
+
 # Intro to the command line
 
 Welcome! The command line can be one of the most powerful ways to interact with
